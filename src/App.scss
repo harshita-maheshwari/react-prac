@@ -1,0 +1,47 @@
+body {
+  background: #f9f9fb;
+}
+.doc-wrapper {
+  padding: 45px 0;
+}
+
+.card {
+  padding: 15px;
+}
+.card-body {
+  background: #f9f9f9;
+  padding: 15px;
+  word-wrap: break-word;
+  position: relative;
+}
+.section-title {
+  font-size: 28px;
+  font-weight: 600;
+  margin-top: 0;
+}
+.card-title {
+  margin-top: 20px;
+}
+.code-title {
+  font-size: 16px;
+  margin-top: 20px;
+  font-style: italic;
+  font-weight: 300;
+}
+pre,
+.pre {
+  display: block;
+  padding: 9.5px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  line-height: 1.42857143;
+  color: #fff;
+  word-break: break-all;
+  word-wrap: break-word;
+  background-color: #000;
+  width: 100%;
+  overflow-x: auto;
+  max-height: 500px;
+  font-family: monospace;
+  resize: none;
+}
